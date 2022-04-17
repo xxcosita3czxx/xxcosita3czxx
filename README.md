@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xxcosita3czxx
-- 👀 I’m interested in Software dev and working with coputer OS
+- 👀 I’m interested in Software dev and working with computer OS
 - 🌱 I’m currently learning How the fuck fix my comp 
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me: Discord (Use this acc, i change my name frequently: Meru#5313)
