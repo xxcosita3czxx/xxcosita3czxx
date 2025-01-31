@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xxcosita3czxx
 - 👀 I’m interested in Software dev and working with computer OS
-- 🌱 I’m currently learning How the fuck fix my comp 
-- 💞️ I’m looking to collaborate on IT
+- 🌱 I’m currently learning How the fuck fix my comp
 - 📫 How to reach me: Discord: cosita3cz#2095
 
 <!---
