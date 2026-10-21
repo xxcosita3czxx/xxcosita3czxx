@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @xxcosita3czxx
-- 👀 I’m interested in Software dev and working with computer OS
-- 🌱 I’m currently learning How the fuck fix my comp
-- 📫 How to reach me: Discord: cosita3cz#2095
+- 👋 Hi, I’m @xxcosita3czxx , known as just Cosita [Kosita], or cosita3cz
+- 👀 I’m interested in Software dev and Cybersecurity
+- 📫 How to reach me:
+- - Discord: cosita3cz#2095
+- - Telegram: https://t.me/cosita3cz
 
 <!---
 xxcosita3czxx/xxcosita3czxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
